@@ -1,2 +1,2 @@
-# kulkulator-python
+# culculator-python
 first python kulkulator 
